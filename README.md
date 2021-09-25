@@ -4,7 +4,7 @@
 
 <h2 align="center">
   Projeto do Ignite <br/> <br/>
-  <a href="https://github.com/rafaelnrabelo/BeTheHero#testando">
+  <a href="https://github.com/rafaelnrabelo/dtmoney#testando">
     <img src="https://img.shields.io/badge/Testing-Install-%2333cc95" alt="testing"/>
   </a>
 </h2>
